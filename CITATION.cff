@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Monitoring-Station
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Anna
+    family-names: Hogger
+    email: anna.hogger@hm.edu
+    affiliation: Hochschule München
+repository-code: 'https://github.com/AnnaH42/Monitoring-Station'
